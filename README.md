@@ -7,7 +7,7 @@
 
 <img width="15%" align="right" alt="Github Image" src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" />
 
--  <img width="2.5%" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"  />  I’m currently learning **Kubernetes & Kafka**. <br>
+-  <img width="2.5%" alt="GIF" src="https://github.hpe.com/arka-pramanik/arka-pramanik/blob/main/Assets/Developer.gif"  />  I’m currently learning **Kubernetes & Kafka**. <br>
 <!-- - 🔭 I am looking for help with ****. <br> -->
 - 👨‍💻 I'm currently enhancing my **DevOps Skillset**.
 - 💬 Ask me about **anything**, always ready to help.
