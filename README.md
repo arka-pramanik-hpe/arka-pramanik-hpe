@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arka Pramanik</h1>
-<h3 align="center">Currently Working as an HPC Software Engineer Intern @HPE </h3>
+<h3 align="center">Currently Working as an Systems/Software Engineer 1 @HPE </h3>
 
 <br/>
 
@@ -11,7 +11,7 @@
 <!-- - 🔭 I am looking for help with ****. <br> -->
 - 👨‍💻 I'm currently enhancing my **DevOps Skillset**.
 - 💬 Ask me about **anything**, always ready to help.
-- 🌐 Portfolio - **[apxd.codes](https://apxd.codes/)**
+- 🌐 Portfolio - **[apxd.in](https://apxd.in/)**
 - 📫 Find me on Telegram - [̽̀ 𝐀𝐫𝐤𝐚 ](https://tx.me/AP_XD).
 - Follow - **[github.com/AP-XD](https://github.com/AP-XD/)**
 
